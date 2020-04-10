@@ -1,0 +1,16 @@
+.topNav {
+    align-items: center;
+    background-color: #3f51b5;
+    font-weight: 600;
+    color: #ffffff;
+    border-bottom: 1px solid #f3f3f3;
+    line-height: 60px;
+}
+
+.navItems {
+    display: flex;
+    flex-direction: row;
+    .logo {
+        font-size: 1.6em;
+    }
+}
